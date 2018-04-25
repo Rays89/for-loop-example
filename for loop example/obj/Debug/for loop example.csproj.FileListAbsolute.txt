@@ -1,0 +1,6 @@
+c:\users\rachael\source\repos\for loop example\for loop example\bin\Debug\for loop example.exe.config
+c:\users\rachael\source\repos\for loop example\for loop example\bin\Debug\for loop example.exe
+c:\users\rachael\source\repos\for loop example\for loop example\bin\Debug\for loop example.pdb
+c:\users\rachael\source\repos\for loop example\for loop example\obj\Debug\for loop example.csproj.CoreCompileInputs.cache
+c:\users\rachael\source\repos\for loop example\for loop example\obj\Debug\for loop example.exe
+c:\users\rachael\source\repos\for loop example\for loop example\obj\Debug\for loop example.pdb
